@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shashanksinghthakur
 - 👀 I’m interested in Blockchain Development
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on DeFi Projects
+- 💞️ I’m looking to collaborate on NFT Projects
 - 📫 How to reach me shashanksingh1009999@gmail.com
 
 <!---
