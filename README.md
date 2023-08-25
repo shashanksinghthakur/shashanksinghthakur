@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shashanksinghthakur
-- 👀 I’m interested in Blockchain Development
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on NFT Projects
-- 📫 How to reach me shashanksingh1009999@gmail.com
+- 👋 Hi, I’m @shashanksinghthakur.
+- 👀 I’m interested in Advanced DSA Concepts Usecase | Web Development | Blockchain Development.
+- 🌱 I’m currently learning learning Golang, Typescript.
+- 💞️ I’m looking to collaborate on Open source Web3/Web_Development Projects.
+- 📫 How to reach me shashanksingh1009999@gmail.com or Visit mt Portfolio At - 
 
 <!---
 shashanksinghthakur/shashanksinghthakur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
