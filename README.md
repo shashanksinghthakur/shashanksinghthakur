@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shashanksinghthakur.
-- 👀 I’m interested in Advanced DSA Concepts Usecase | Web Development | Blockchain Development.
-- 🌱 I’m currently learning learning Golang, Typescript.
-- 💞️ I’m looking to collaborate on Open source Web3/Web_Development Projects.
-- 📫 How to reach me shashanksingh1009999@gmail.com or Visit mt Portfolio At - 
+- 👀 I’m interested in Marketing & Psycology | Web3/Blockchain | AI.
+- 💞️ I’m writing a book on web3 marketing.
+- 📫 How to reach me shashank22sst@gmail.com 
 
 <!---
 shashanksinghthakur/shashanksinghthakur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
